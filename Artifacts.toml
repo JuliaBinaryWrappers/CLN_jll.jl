@@ -1,0 +1,288 @@
+[[CLN]]
+arch = "aarch64"
+git-tree-sha1 = "72f087c89c5a9cc4defab5220cfde2ec60b443de"
+os = "macos"
+
+    [[CLN.download]]
+    sha256 = "7474daa4aa25b10a246db432635da6f78cbb78ea6482a12c2abb66ee76927529"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.aarch64-apple-darwin.tar.gz"
+[[CLN]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eaaee6b328a406ab92b1fd61a2f9ae5b9e9b2fa2"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "4b98f8eca893811028bda48e0e754f8036f3c55bddc97273438429b91351f925"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[CLN]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0b32e3b45a8491062c580b1a76b99c7e935fbe9"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "a5fd0b9399c4702aa117693313de307ad01dd5fac7dea8539af3fd9f2f31b38b"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[CLN]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b79a571ed0a915b8390edba7cad52e7aed21192e"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "53298ded9cabb85cda117b1ceeb694bc6b1fda82d3a10c56f3108daecc6fcc25"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.aarch64-linux-musl-cxx03.tar.gz"
+[[CLN]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcd66e891fefe7ae10e63effb00f6e7cac439873"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "a2b99f626a952feddc55794a5c803bc9b281f231de3a8e166cf02695cdeaa066"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.aarch64-linux-musl-cxx11.tar.gz"
+[[CLN]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68e6e05c8d82f1ddfc12bfd94273adc6234c72f6"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "4e7d72d29afbc67aa0fa1a4f264fd4fe0f733b6913a296d8e035fd98e4e8a77f"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[CLN]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a2c0a92ba04c4f91e7012e8acea47b1add50a1a"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "6e13e3806bb3506253216ae2d440c2b4756653e30fff0af70675d15c87ca0cd3"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[CLN]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26f0a83e9b3c93c1c7d977c2fbc09213cd6aa0c3"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "e730222e021c508779e4c78b1e05e077981ec82089326f47229f991c462e0530"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[CLN]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "483fd031c02eb3d31402c0eefa9f8023f0ff39de"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "d4f11b287f9fd9729a9752e894e0a2f9e1711d9d5121c476f52d4f0732057f1a"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[CLN]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d087f34e7728c445c3d6da425d94454e16b8fe8a"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "c025d5e0911b703ac99bc33c49f81e18f8a3f709155c8c949c7fbd13ef489e14"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CLN]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74f7828e72bc9bb4b24d8067bf0d158d303e7d94"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "1903dc8793297cf7ae71fc9b7b81b6f904a3588b750e5c7d372c29c010c38e87"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CLN]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eb32fcd7915639ca25ac1dc7b9733a8e27e3ebe4"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "e8e78f64c1e358b87cab0836ea3b960f9c3f575b93dc7085ef8d945ac56fe268"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CLN]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bccede299a98436b45b11287f186cf8683adcfff"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "07b4858d106f8ea9e3458ab716354779280a09cc4cd56ea56ce7915da9815d65"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "754a3bb0c67fd9f6cfef75938e389bf556693147"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "17b5c3ac17e255e8c403c5b5483e6cc43cbb63c3391e09f4eddee34d70989578"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-linux-gnu-cxx03.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15d7358b72db053518ed218d856722628f984ea3"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "6b95a69bc36db5dfb7aa1d59100f2b8cdb0e842d5a7574309763ac7fd054a5e8"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-linux-gnu-cxx11.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82e00ee83d3dedfb25988d4dd6995d37f37c3eb5"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "c78447fbfcc38b92afcc2c594ab52dfb991639ed377af57d35d1a20e31dfd27c"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-linux-musl-cxx03.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "309c0a49ceb72908e3ff25fa0bffadf89aa80106"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "ecd163d1770495bebdf9f21d8d8c357ff9624a14d9daa79aba73657659e21600"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-linux-musl-cxx11.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad237fe84bf8c0678d5375a0a3269d658f216ed5"
+os = "windows"
+
+    [[CLN.download]]
+    sha256 = "580a24c6f4ed88267bdd24fb104e7e8f9d8f0850b6b0226c811984f4cc202938"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-w64-mingw32-cxx03.tar.gz"
+[[CLN]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62e4491947a3fb1c86a6f65d4a43a6c8f79683ef"
+os = "windows"
+
+    [[CLN.download]]
+    sha256 = "9fddbb0d0853597ecaa3c6441546da53f533fc9cb818d86f7661569d96ca53d8"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.i686-w64-mingw32-cxx11.tar.gz"
+[[CLN]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b71969bc7c8f29e39100112c6dbf8c42cfdca35"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "e00b53b1b8f1ea490b9ba02e3cb536c6ff794e93da66622f47bce20a9862457b"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[CLN]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08e48edc225f5d7dab3729f47406710a0aaaf746"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "2016bbe5e80b103519e582a187f1b917bb5b5141f388f7dc88078b56cfd5d50d"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[CLN]]
+arch = "x86_64"
+git-tree-sha1 = "3194b0f8a0c883b26dacd4af10e88dfffec988a4"
+os = "macos"
+
+    [[CLN.download]]
+    sha256 = "a3a2b406310b66657fe4fe20474c03104b00b93e48586b047e50a0125c649e42"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-apple-darwin.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "843f8bf2b67a9a5bfa668b960b23019e84cd3efc"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "db42be815c06060e48ff997d77dc923580cf9d1a4f4288786fb1acc414bce9fd"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d4ee4bb6404284948cf32ca56aeaf152f086708c"
+libc = "glibc"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "d8177530cc93548c8af45c1ea7f2da47c037a474879ea60d45aa58cf7e37ba8a"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b938fa3a35c0e0a7aa3e2b471d4aa8acc16246a1"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "5775deebebd09958276eebf653f450bdb9ef9d39d80d8bba3c590d181bece5fe"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-linux-musl-cxx03.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c98e1489160f70bd792936e9e06de183bd750286"
+libc = "musl"
+os = "linux"
+
+    [[CLN.download]]
+    sha256 = "ad5f794d6e0120b8154dd64428659168a22e45c737926ad7e315dc3524501e8d"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-linux-musl-cxx11.tar.gz"
+[[CLN]]
+arch = "x86_64"
+git-tree-sha1 = "0e098429536b4335bf0f491a7865b6d4c20e93ad"
+os = "freebsd"
+
+    [[CLN.download]]
+    sha256 = "8c5cd08b8e9aa4f48af182e5609743f67646ee41c9a27b4d958268aa8c7c66b7"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-unknown-freebsd.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6437611ab48742aec9e92056a0bef72604efa60"
+os = "windows"
+
+    [[CLN.download]]
+    sha256 = "18c558c3b9eb6ee94767c70755aa066f2c164202979d694e5f787ab6e0ade610"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CLN]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "149fd70b2aee55f231d942a797dd1d45a3d1cd7e"
+os = "windows"
+
+    [[CLN.download]]
+    sha256 = "377e5ce010e630d1a9dae92ebfb15c2e5876278268e45a6482ea7c731d7eb533"
+    url = "https://github.com/JuliaBinaryWrappers/CLN_jll.jl/releases/download/CLN-v1.3.6+0/CLN.v1.3.6.x86_64-w64-mingw32-cxx11.tar.gz"
